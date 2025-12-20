@@ -1,4 +1,10 @@
 package com.foodordering.interfaces;
 
-public class Orderable {
+import com.foodordering.model.MenuItem;
+
+public interface Orderable {
+    void addToCart(MenuItem item);
+    void removeFromCart(MenuItem item);
+    void placeOrder();
+    double calculateTotal();
 }
