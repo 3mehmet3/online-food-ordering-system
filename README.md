@@ -67,7 +67,7 @@ online-food-ordering-system/
 
 ### Clone Repository
 ```bash
-git clone https://github.com/harunbaskan/online-food-ordering-system.git
+git clone https://github.com/3mehmet3/online-food-ordering-system.git
 cd online-food-ordering-system
 ```
 
